@@ -9,8 +9,8 @@ arcpy.CheckOutExtension('3D')
 outLocation = r"..\skyline_test\test"
 inputDataLocation = r"..\skyline_test"
 
-points_2d = "agg_point.shp"  # The 2D point file
-points_3d = "agg_point_3d.shp"  # The 3D point file
+points_2d = "point.shp"  # The 2D point file
+points_3d = "point_3d.shp"  # The 3D point file
 dem = "building_3d.shp" # the DEM file
 
 points2File = os.path.join(inputDataLocation, points_2d)
