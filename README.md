@@ -4,7 +4,10 @@ Aim of the project is to compute the Sky View Factor for group of points on the 
 
 批量处理城市街道天空率。
 
-The graphical details can be traced here.
+Sample shpfile data can be accessed here: 
+https://drive.google.com/drive/folders/1DBp3wxkyMB3NKDbHEKkKKvlbHCK9Pywe?usp=sharing
+
+The graphical details can be traced here:
 https://github.com/Mengyang-LIU/SVF_gis_calculator/blob/main/pic3.png
 
 Relative applications and references can be traced here.
