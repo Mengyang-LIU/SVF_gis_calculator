@@ -6,12 +6,12 @@ arcpy.env.overwriteOutput = True
 arcpy.CheckOutExtension('3D')
 
 # Set local variables
-outLocation = r"\\Mac\Home\Documents\skyline_test\test"
-inputDataLocation = r"\\Mac\Home\Documents\skyline_test"
+outLocation = r"..\skyline_test\test"
+inputDataLocation = r"..\skyline_test"
 
 points_2d = "agg_point.shp"  # The 2D point file
 points_3d = "agg_point_3d.shp"  # The 3D point file
-dem = "wuhan_building_3d1.shp" # the DEM file
+dem = "building_3d.shp" # the DEM file
 
 points2File = os.path.join(inputDataLocation, points_2d)
 points3File = os.path.join(inputDataLocation, points_3d)
