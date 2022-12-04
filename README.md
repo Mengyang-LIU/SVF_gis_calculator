@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1DBp3wxkyMB3NKDbHEKkKKvlbHCK9Pywe?usp=sha
 
 The graphical details can be traced here:
 
-![](_https://github.com/Mengyang-LIU/SVF_gis_calculator/blob/main/pic3.png)
+![](https://github.com/Mengyang-LIU/SVF_gis_calculator/blob/main/pic3.png)
 
 Relative applications and references can be traced here.
 https://www.sciencedirect.com/science/article/abs/pii/S036013232100665X?via%3Dihub
